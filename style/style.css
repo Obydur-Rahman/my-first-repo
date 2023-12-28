@@ -1,0 +1,30 @@
+
+
+nav{
+    text-align: center;
+}
+
+
+
+nav li a{
+    text-decoration:none;
+    color: black;
+    font-size: 25px;
+
+    
+}
+nav  li{
+    list-style:none ;
+   
+    
+    display: inline;
+    margin-right: 50px;
+    padding: 5px;
+    
+}
+
+nav li:hover{
+    background-color: rgba(161, 161, 161, 0.805);
+}
+
+
